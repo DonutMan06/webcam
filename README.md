@@ -6,6 +6,9 @@ It can be use in addition of any virtual cam driver (for instance in Linux, [v4l
 
 ![Webcam image](https://github.com/DonutMan06/DonutMan06/blob/main/wc2.png)
 
+More information about the program [on my blog](https://donutblog.fr/gnu-linux/webcam/) (in french)
+
+
 ## Dependencies
 
 - OpenCV2
