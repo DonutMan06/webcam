@@ -4,6 +4,8 @@ This is a very simple python script that run several filters over a webcam flow
 
 It can be use in addition of any virtual cam driver (for instance in Linux, [v4l2loopback](https://github.com/v4l2loopback/v4l2loopback)) to be plugged into external software such as VLC or Zoom.
 
+![Webcam image](https://github.com/DonutMan06/DonutMan06/blob/main/wc2.png)
+
 ## Dependencies
 
 - OpenCV2
